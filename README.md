@@ -2,7 +2,7 @@
 
 Hi! Curious bird bot is... well... a telegram bot made in python that use data from http://ebird.org/ .
 
-The data was scrapped using the module scrappybird en this direction.
+The data was scrapped using the module scrappybird en this [direction](https://github.com/isaac152/scrappybird).
 
 The folder json doesnt have any data, so you can scrape and select the data you want. 
 
