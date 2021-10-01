@@ -12,7 +12,19 @@ Also the bot is hosted in heroku with the free plan so if it doesn't work please
 ## Bot 
 
 You can find it in telegram by: **@curios_bird_bot**
-![Basic commands ](https://pbs.twimg.com/media/E9b95PkWYAMeKXn?format=jpg&name=medium)
+![Basic commands ](https://i.imgur.com/Nekgqve.jpg)
+
+
+**Game options**
+
+![Games option](https://i.imgur.com/VOri2c8.jpg)
+
+
+![Guess by image](https://i.imgur.com/oW5tfty.jpg)
+
+**Surprise command**
+
+![Surprise me option](https://i.imgur.com/aBRFMgX.jpg)
 
 ## Copyright
 
