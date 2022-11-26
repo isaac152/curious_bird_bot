@@ -1,0 +1,34 @@
+[flake8]
+max-line-length = 110
+
+#select = A,E,F,W,I,T4,C4,B,T,R,FS
+
+# E501 Line too long (we'll use flake8-bugbear for this)
+# W502 Line break occurred before a binary operator
+# E203 Whitespace before ':' (black 'incompatibility')
+ignore = E501,W503,E203
+
+extend_exclude =
+          # defaults from isort
+          .bzr,
+          .direnv,
+          .eggs,
+          .git,
+          .hg,
+          .mypy_cache,
+          .nox,
+          .pants.d,
+          .svn,
+          .tox,
+          .venv,
+          _build,
+          buck-out,
+          build,
+          dist,
+          node_modules,
+          venv,
+          env,
+          dockerdata,
+
+per_file_ignores:
+        commands/__init__.py:F401

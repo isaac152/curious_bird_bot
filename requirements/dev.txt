@@ -1,0 +1,6 @@
+requests
+python-telegram-bot --pre
+flake8
+isort
+black
+pre-commit

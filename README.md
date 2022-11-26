@@ -1,5 +1,7 @@
 ﻿# Curious Bird Bot
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 Hi! Curious bird bot is... well... a telegram bot made in python that uses data from http://ebird.org/ .
 
 The data was scrapped using the module scrappybird in this [direction](https://github.com/isaac152/scrappybird).
