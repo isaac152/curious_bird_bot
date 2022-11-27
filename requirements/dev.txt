@@ -1,5 +1,5 @@
 requests
-python-telegram-bot --pre
+python-telegram-bot==20.0a0
 flake8
 isort
 black
