@@ -13,7 +13,7 @@ Also the bot is hosted in heroku with the free plan so if it doesn't work please
 
 ## Bot 
 
-You can find it in telegram by: **@curios_bird_bot**
+You can find it in telegram by: [**@curios_bird_bot**](https://t.me/curios_bird_bot)
 ![Basic commands ](https://i.imgur.com/Nekgqve.jpg)
 
 
