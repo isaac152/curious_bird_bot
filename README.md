@@ -8,8 +8,6 @@ The data was scrapped using the module scrappybird in this [direction](https://g
 
 The folder json doesn't have any data, so you can scrape and select the data you want. 
 
-Also the bot is hosted in heroku with the free plan so if it doesn't work please let me know. Hope you enjoy this as much as i did writing it
-
 
 ## Bot 
 
